@@ -5,6 +5,6 @@ account: aksela
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 288882
-bundleId: 1245833
+bundleId: 1340501
 url: https://aksela.shinyapps.io/bioint/
-when: 1519855502.41716
+when: 1524735694.39424

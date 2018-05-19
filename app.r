@@ -1,4 +1,4 @@
-setwd("~/Documents/R/shiny/bioint")
+# setwd("~/Documents/R/shiny/bioint")
 library(shiny)
 
 dat <- readRDS("supp/bioint.rds")
